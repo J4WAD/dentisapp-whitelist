@@ -1,6 +1,8 @@
    {
      "servers": [
        "https://dentisapp.up.railway.app",
-       "https://demo.dentisapp.com"
+       "https://demo.dentisapp.com",
+       "https://alazhar.up.railway.app",
+       "https://drguechi.up.railway.app"
      ]
    }
