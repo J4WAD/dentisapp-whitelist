@@ -1,10 +1,9 @@
    {
      "servers": [
-       "https://dentisapp.up.railway.app",
        "https://server.dentisapp.com",
        "https://demo.dentisapp.com",
-       "https://alazhar.up.railway.app",
-       "https://drguechi.up.railway.app",
-       "https://meghara.dentisapp.com"
+       "https://alazhar.dentisapp.com",
+       "https://meghara.dentisapp.com",
+       "https://drguechi.dentisapp.com"
      ]
    }
