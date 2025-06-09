@@ -1,7 +1,7 @@
    {
      "servers": [
        "https://dentisapp.up.railway.app",
-       "http://34.163.246.154:8090",
+       "http://34.163.246.154:8090/_/",
        "https://demo.dentisapp.com",
        "https://alazhar.up.railway.app",
        "https://drguechi.up.railway.app",
