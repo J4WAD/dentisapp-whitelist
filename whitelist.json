@@ -1,12 +1,40 @@
-   {
-     "servers": [
-       "https://serveur.dentisapp.com",
-       "https://demo.dentisapp.com",
-       "https://meghara.dentisapp.com",
-       "https://berdent.dentisapp.com",
-       "https://drnadji.dentisapp.com",
-       "https://azhar.dentisapp.com",
-       "https://drguechi.dentisapp.com",
-       "https://pearldentalclinic.dentisapp.com"
-     ]
-   }
+{
+  "servers": [
+    {
+      "url": "https://serveur.dentisapp.com",
+      "ai": true,
+      "sms": true
+    },
+    {
+      "url": "https://demo.dentisapp.com",
+      "ai": false,
+      "sms": false
+    },
+    {
+      "url": "https://meghara.dentisapp.com",
+      "ai": false,
+      "sms": false
+    },
+    {
+      "url": "https://berdent.dentisapp.com",
+      "ai": true,
+      "sms": false
+    },
+
+    {
+      "url": "https://azhar.dentisapp.com",
+      "ai": false,
+      "sms": false
+    },
+    {
+      "url": "https://drguechi.dentisapp.com",
+      "ai": false,
+      "sms": false
+    },
+    {
+      "url": "https://pearldentalclinic.dentisapp.com",
+      "ai": true,
+      "sms": true
+    }
+  ]
+}
