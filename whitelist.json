@@ -32,6 +32,11 @@
       "sms": false
     },
     {
+      "url": "https://drzaidi.dentisapp.com",
+      "ai": true,
+      "sms": false
+    },
+    {
       "url": "https://pearlclinic.dentisapp.com",
       "ai": true,
       "sms": true
