@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "url": "http://127.0.0.1:8090",
+      "ai": true,
+      "sms": true
+    },{
       "url": "https://serveur.dentisapp.com",
       "ai": true,
       "sms": true
