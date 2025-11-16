@@ -39,6 +39,16 @@
       "url": "https://bouretaa.dentisapp.com",
       "ai": false,
       "sms": false
+    },
+    {
+      "url": "https://smilegen.dentisapp.com",
+      "ai": true,
+      "sms": true
+    },
+    {
+      "url": "https://dentigen.dentisapp.com",
+      "ai": true,
+      "sms": true
     }
   ]
 }
