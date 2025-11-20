@@ -2,52 +2,42 @@
   "servers": [
     {
       "url": "http://127.0.0.1:8090",
-      "ai": true,
       "sms": true
     },
     {
       "url": "https://serveur.dentisapp.com",
-      "ai": true,
       "sms": true
     },
     {
       "url": "https://demo.dentisapp.com",
-      "ai": false,
       "sms": false
     },
     {
       "url": "https://meghara.dentisapp.com",
-      "ai": false,
       "sms": false
     },
     {
       "url": "https://berdent.dentisapp.com",
-      "ai": true,
       "sms": false
     },
     {
       "url": "https://drzaidi.dentisapp.com",
-      "ai": true,
       "sms": false
     },
     {
       "url": "https://pearlclinic.dentisapp.com",
-      "ai": true,
       "sms": true
     },
     {
       "url": "https://bouretaa.dentisapp.com",
-      "ai": false,
       "sms": false
     },
     {
       "url": "https://smilegen.dentisapp.com",
-      "ai": true,
       "sms": true
     },
     {
       "url": "https://dentigen.dentisapp.com",
-      "ai": true,
       "sms": true
     }
   ]
