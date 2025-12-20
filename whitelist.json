@@ -10,7 +10,7 @@
     },
     {
       "url": "https://demo.dentisapp.com",
-      "sms": false
+      "sms": true
     },
     {
       "url": "https://meghara.dentisapp.com",
