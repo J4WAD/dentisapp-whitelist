@@ -18,11 +18,11 @@
     },
     {
       "url": "https://berdent.dentisapp.com",
-      "sms": false
+      "sms": true
     },
     {
       "url": "https://drzaidi.dentisapp.com",
-      "sms": false
+      "sms": true
     },
     {
       "url": "https://pearlclinic.dentisapp.com",
