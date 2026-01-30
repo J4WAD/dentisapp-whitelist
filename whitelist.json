@@ -39,6 +39,14 @@
     {
       "url": "https://dentigen.dentisapp.com",
       "sms": true
+    },
+    {
+      "url": "https://dentalart.dentisapp.com",
+      "sms": true
+    },
+    {
+      "url": "https://stomatoplus.dentisapp.com",
+      "sms": true
     }
   ]
 }
