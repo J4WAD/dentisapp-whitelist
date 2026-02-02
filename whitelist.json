@@ -47,6 +47,10 @@
     {
       "url": "https://stomatoplus.dentisapp.com",
       "sms": true
+    },
+    {
+      "url": "https://demo1.dentisapp.com",
+      "sms": true
     }
   ]
 }
