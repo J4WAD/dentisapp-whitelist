@@ -6,7 +6,8 @@
     },
     {
       "url": "https://serveur.dentisapp.com",
-      "sms": true
+      "sms": true,
+      "worklist": true
     },
     {
       "url": "https://demo.dentisapp.com",
