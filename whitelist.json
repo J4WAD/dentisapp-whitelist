@@ -12,6 +12,11 @@
       "customTemplates": true
     },
     {
+      "url": "https://sourire.dentisapp.com",
+      "sms": true,
+      "customTemplates": true
+    },
+    {
       "url": "https://demo.dentisapp.com",
       "sms": true
     },
