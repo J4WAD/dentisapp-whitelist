@@ -2,12 +2,14 @@
   "servers": [
     {
       "url": "http://127.0.0.1:8090",
-      "sms": true
+      "sms": true,
+      "customTemplates": true
     },
     {
       "url": "https://serveur.dentisapp.com",
       "sms": true,
-      "worklist": true
+      "worklist": true,
+      "customTemplates": true
     },
     {
       "url": "https://demo.dentisapp.com",
